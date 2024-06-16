@@ -1,0 +1,25 @@
+﻿@model IEnumerable<MercDevs_ej2.Models.Servicio>
+
+<h1>Servicios del Cliente</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>SKU</th>
+            <th>Estado</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var servicio in Model)
+        {
+            <tr>
+                <td>@servicio.IdServicio</td>
+                <td>@servicio.Nombre</td>
+                <td>@servicio.Sku</td>
+                <td>@servicio.Estado</td>
+            </tr>
+        }
+    </tbody>
+</table>

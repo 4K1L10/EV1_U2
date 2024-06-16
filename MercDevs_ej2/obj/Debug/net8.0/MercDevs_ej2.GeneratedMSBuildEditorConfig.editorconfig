@@ -1,0 +1,175 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MercDevs_ej2
+build_property.RootNamespace = MercDevs_ej2
+build_property.ProjectDir = W:\D0CUM3NT0\mercy_developer_oficial-login\MercDevs_ej2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = W:\D0CUM3NT0\mercy_developer_oficial-login\MercDevs_ej2
+build_property._RazorSourceGeneratorDebug = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Clientes/Servicios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcU2VydmljaW9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Descripcionservicio/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzY3JpcGNpb25zZXJ2aWNpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Descripcionservicio/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzY3JpcGNpb25zZXJ2aWNpb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Descripcionservicio/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzY3JpcGNpb25zZXJ2aWNpb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Descripcionservicio/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzY3JpcGNpb25zZXJ2aWNpb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Descripcionservicio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzY3JpcGNpb25zZXJ2aWNpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Login/Ingresar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5ncmVzYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Login/Registrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVnaXN0cmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Recepcionequipoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXBjaW9uZXF1aXBvZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Recepcionequipoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXBjaW9uZXF1aXBvZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Recepcionequipoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXBjaW9uZXF1aXBvZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Recepcionequipoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXBjaW9uZXF1aXBvZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Recepcionequipoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXBjaW9uZXF1aXBvZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Recepcionequipoes/RecepcionEquipoPorCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXBjaW9uZXF1aXBvZXNcUmVjZXBjaW9uRXF1aXBvUG9yQ2xpZW50ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Servicios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Servicios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Servicios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Servicios/DetallesEquipo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXERldGFsbGVzRXF1aXBvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Servicios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Servicios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/D0CUM3NT0/mercy_developer_oficial-login/MercDevs_ej2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jm1pdi16lm

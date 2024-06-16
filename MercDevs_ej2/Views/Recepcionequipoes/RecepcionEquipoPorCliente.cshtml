@@ -1,0 +1,45 @@
+﻿@model IEnumerable<MercDevs_ej2.Models.Recepcionequipo>
+
+@{
+    ViewData["Title"] = "Equipos Recepcionados";
+}
+
+<h2>Equipos Recepcionados del Cliente</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Fecha</th>
+            <th>Tipo PC</th>
+            <th>Accesorio</th>
+            <th>Marca PC</th>
+            <th>Modelo PC</th>
+            <th>N° Serie</th>
+            <th>Capacidad RAM</th>
+            <th>Tipo Almacenamiento</th>
+            <th>Capacidad Almacenamiento</th>
+            <th>Tipo GPU</th>
+            <th>Gráfico</th>
+            <th>Servicio</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var equipo in Model)
+        {
+            <tr>
+                <td>@equipo.Fecha</td>
+                <td>@equipo.TipoPc</td>
+                <td>@equipo.Accesorio</td>
+                <td>@equipo.MarcaPc</td>
+                <td>@equipo.ModeloPc</td>
+                <td>@equipo.Nserie</td>
+                <td>@equipo.CapacidadRam</td>
+                <td>@equipo.TipoAlmacenamiento</td>
+                <td>@equipo.CapacidadAlmacenamiento</td>
+                <td>@equipo.TipoGpu</td>
+                <td>@equipo.Grafico</td>
+                <td>@equipo.IdServicioNavigation.Nombre</td>
+            </tr>
+        }
+    </tbody>
+</table>

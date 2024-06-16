@@ -1,0 +1,13 @@
+﻿@model MercDevs_ej2.Models.Servicio
+
+<h1>Detalles del Equipo Recepcionado</h1>
+
+<h2>@Model.Nombre - @Model.Sku</h2>
+<h3>Estado: @Model.Estado</h3>
+
+<form asp-action="ActualizarEstado" method="post">
+    <input type="hidden" asp-for="IdServicio" />
+    <input type="submit" value="Recepción del Equipo" />
+</form>
+
+<a asp-action="Index">Volver</a>
